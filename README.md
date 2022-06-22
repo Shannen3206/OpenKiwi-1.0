@@ -1,2 +1,2 @@
-# openkiwi
-openkiwi 1.0 版本
+# OpenKiwi
+OpenKiwi 1.0 版本
